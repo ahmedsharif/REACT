@@ -1,0 +1,30 @@
+h1 {
+  font-style: italic;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.pure-input-2-3 {
+  width: 60%;
+  color: limegreen;
+  height: 50%;
+}
+
+button {
+  background-color: blueviolet;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+input {
+  padding: 16px 32px;
+  margin: 4px 2px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.max-temp {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
